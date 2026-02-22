@@ -102,6 +102,9 @@ export default {
                         Every participant in the completion must have an uploaded video with a cheat indicator and audible clicks
                     </p>
                     <p>
+                        You can't beat a level already on the list with less participants. Max Participants is 10
+                    </p>
+                    <p>
                         Every participant must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt
                     </p>
                     <p>
