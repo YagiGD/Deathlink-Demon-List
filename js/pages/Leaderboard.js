@@ -28,7 +28,7 @@ export default {
                     <table class="board">
                         <tr v-for="(ientry, i) in leaderboard">
                             <td class="rank">
-                                <p class="type-label-lg">#{{ i + 1 }}</p>
+                                <p class="type-label-lg">#{{ i }}</p>
                             </td>
                             <td class="total">
                                 <p class="type-label-lg">{{ localize(ientry.total) }}</p>
