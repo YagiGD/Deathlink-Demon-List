@@ -99,7 +99,7 @@ export default {
                         Achieved the record without using hacks (FPS bypass is allowed)
                     </p>
                     <p>
-                        Every participant in the completion must have an uploaded video with a cheat indicator and audible clicks
+                        Every participant must have an uploaded video with a cheat indicator and audible clicks throughout the entire completion
                     </p>
                     <p>
                         You can't beat a level already on the list with less participants. Max Participants is 10
