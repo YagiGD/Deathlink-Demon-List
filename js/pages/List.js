@@ -67,7 +67,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="group">
-                                <p>{{ group }}</p>
+                                <a :href="record.link" target="_blank" class="type-label-lg">{{ group }}</a>
                             </td>
                         </tr>
                     </table>
