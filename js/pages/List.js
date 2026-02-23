@@ -99,6 +99,9 @@ export default {
                         Achieved the record without using hacks (FPS bypass is allowed)
                     </p>
                     <p>
+                        Other participants must be visible
+                    </p>
+                    <p>
                         Every participant must have an uploaded video with a cheat indicator and audible clicks throughout the entire completion
                     </p>
                     <p>
