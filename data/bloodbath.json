@@ -1,0 +1,23 @@
+{
+    "id": 10565740,
+    "name": "2p- Bloodbath",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=equbAKFWwsw",
+    "percentToQualify": "94",
+    "records": [
+        {
+            "user": "rPotatoSavage",
+            "link": "https://www.youtube.com/watch?v=equbAKFWwsw",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Thaash",
+            "link": "https://www.youtube.com/watch?v=ezE_qdimtfk",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
