@@ -1,0 +1,23 @@
+{
+    "id": 115831839,
+    "name": "2p- Paper Rings",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=x80huO35iiE",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "TheHallow9",
+            "link": "https://www.youtube.com/watch?v=x80huO35iiE",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Testily",
+            "link": "https://www.youtube.com/watch?v=41kLAbNmxFw&list=RD41kLAbNmxFw&start_radio=1",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
