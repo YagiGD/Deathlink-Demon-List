@@ -114,7 +114,7 @@ export default {
                         Recordings must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes, and NO PLATFORMERS!!!
                     </p>
                 </div>
             </div>
