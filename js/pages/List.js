@@ -111,7 +111,7 @@ export default {
                         Every participant must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt
                     </p>
                     <p>
-                        Recordings must also show the player hit the endwall, or the completion will be invalidated.
+                        Recordings must show the full 0-100% and the player hit the endwall, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes, and NO PLATFORMERS!!!
