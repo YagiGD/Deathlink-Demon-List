@@ -1,0 +1,23 @@
+{
+    "id": 110027124,
+    "name": "2p- Voluto",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=hIhxAGmIKNs",
+    "percentToQualify": "65",
+    "records": [
+        {
+            "user": "Nova4664",
+            "link": "https://www.youtube.com/watch?v=hIhxAGmIKNs",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Potato6789033",
+            "link": "https://www.youtube.com/watch?v=5F_A6pVeHck",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
