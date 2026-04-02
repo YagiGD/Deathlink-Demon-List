@@ -1,0 +1,23 @@
+{
+    "id": 57084298,
+    "name": "2p- Insaction",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=CneBUZoEZb0",
+    "percentToQualify": 30,
+    "records": [
+        {
+            "user": "L3xiGD",
+            "link": "https://www.youtube.com/watch?v=nmhST87iOww&t=34s",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Bledwinn12",
+            "link": "https://www.youtube.com/watch?v=CneBUZoEZb0",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
