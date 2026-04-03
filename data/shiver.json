@@ -1,0 +1,23 @@
+{
+    "id": 56210242,
+    "name": "2p- Shiver",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=WuYpK-ZNf5Y",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "PtnovoGd",
+            "link": "https://www.youtube.com/watch?v=WuYpK-ZNf5Y",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Pineidk",
+            "link": "https://www.youtube.com/watch?v=O5yGqnolK40",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
