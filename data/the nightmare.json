@@ -1,0 +1,41 @@
+{
+    "id": 13519,
+    "name": "5p- The Nightmare",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=uKJRVZZX7qc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "YagiGD",
+            "link": "https://www.youtube.com/watch?v=uKJRVZZX7qc",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "SirManFace",
+            "link": "https://www.youtube.com/watch?v=2H5w0LANuak",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "JXN4THXN",
+            "link": "https://www.youtube.com/watch?v=doDeLzZt5zw",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Thehelingaming",
+            "link": "https://www.youtube.com/watch?v=m59OvFQb4IA",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "L3xiGD",
+            "link": "https://www.youtube.com/watch?v=-OH7w3f_ldA",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
