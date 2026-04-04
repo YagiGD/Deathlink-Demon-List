@@ -1,0 +1,23 @@
+{
+    "id": 126277777,
+    "name": "2p- the masler",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=nCy4-w7324o",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SirManFace",
+            "link": "https://www.youtube.com/watch?v=nCy4-w7324o",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Icozen",
+            "link": "https://drive.google.com/file/d/1FBqrDB1_l6eXOBAskP6vNVO5AmlPSZdy/view?usp=sharing",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
