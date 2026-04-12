@@ -1,0 +1,23 @@
+{
+    "id": 79224367,
+    "name": "2p- Hollowing",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=qseu8rtrtco",
+    "percentToQualify": 75,
+    "records": [
+        {
+            "user": "SirManFace",
+            "link": "https://www.youtube.com/watch?v=d3WuJnHNIM0",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "https://www.youtube.com/watch?v=qseu8rtrtco",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
