@@ -1,0 +1,23 @@
+{
+    "id": 110774330,
+    "name": "2p- WANNACRY",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=rwiVcJ_AvrA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SirManFace",
+            "link": "https://www.youtube.com/watch?v=q_VkQApPJq8",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "https://www.youtube.com/watch?v=rwiVcJ_AvrA",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
