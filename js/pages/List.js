@@ -102,7 +102,7 @@ export default {
                         Other participants must be visible
                     </p>
                     <p>
-                        Every participant must have an uploaded video with a cheat indicator and audible clicks throughout the entire completion
+                        Every participant must have an uploaded video with a cheat indicator throughout the entire completion
                     </p>
                     <p>
                         You can't beat a level already on the list with less participants. Max Participants is 10
@@ -115,6 +115,12 @@ export default {
                     </p>
                     <p>
                         Do not use secret routes or bug routes, and NO PLATFORMERS!!!
+                    </p>
+                    <p>
+                        Other participants must be visible
+                    </p>
+                    <p>
+                        Once a player has deathlinked a level, they can not rebeat it with a different group of people
                     </p>
                 </div>
             </div>
