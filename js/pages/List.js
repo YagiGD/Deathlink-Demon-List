@@ -108,7 +108,7 @@ export default {
                         You can't beat a level already on the list with less participants. Max Participants is 10
                     </p>
                     <p>
-                        Every participant must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt
+                        At least one participant must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt
                     </p>
                     <p>
                         Recordings must show the full 0-100% and the player hit the endwall, or the completion will be invalidated.
