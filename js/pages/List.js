@@ -117,9 +117,6 @@ export default {
                         Do not use secret routes or bug routes, and NO PLATFORMERS!!!
                     </p>
                     <p>
-                        Other participants must be visible
-                    </p>
-                    <p>
                         Once a player has deathlinked a level, they can not rebeat it with a different group of people
                     </p>
                 </div>
