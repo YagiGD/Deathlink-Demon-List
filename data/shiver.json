@@ -1,35 +1,29 @@
 {
     "id": 56210242,
-    "name": "2p- Shiver",
+    "name": "3p- Shiver",
     "verifier": "Possible List Points",
     "creators": "Creator",
     "publisher": "Publisher",
-    "verification": "https://www.youtube.com/watch?v=WuYpK-ZNf5Y",
+    "verification": "https://www.youtube.com/watch?v=xdU966u9-ts",
     "percentToQualify": "100",
     "records": [
         {
-            "user": "PtnovoGd",
-            "link": "https://www.youtube.com/watch?v=WuYpK-ZNf5Y",
+            "user": "YagiGD",
+            "link": "https://www.youtube.com/watch?v=xdU966u9-ts",
             "percent": 100,
             "hz": "Verifiers"
         },
         {
-            "user": "Pineidk",
-            "link": "https://www.youtube.com/watch?v=O5yGqnolK40",
+            "user": "Bledwinn12",
+            "link": "https://www.youtube.com/watch?v=M1ob3drwr4s",
             "percent": 100,
             "hz": "Verifiers"
         },
         {
-            "user": "Icozen",
-            "link": "https://www.youtube.com/watch?v=1zdlsmuQvvI",
+            "user": "L3xiGD",
+            "link": "https://www.youtube.com/watch?v=vmU-Q-4AQHc",
             "percent": 100,
             "hz": "1st"
         },
-        {
-            "user": "Suberman2",
-            "link": "https://www.youtube.com/watch?v=g1BDjIc_7L8",
-            "percent": 100,
-            "hz": "1st"
-        }
     ]
 }
