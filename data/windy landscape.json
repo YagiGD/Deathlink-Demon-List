@@ -1,0 +1,23 @@
+{
+    "id": 4957691,
+    "name": "2p- Windy Landscape",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=cMzHdN7oOMQ",
+    "percentToQualify": 70,
+    "records": [
+        {
+            "user": "Carlosstuffyey",
+            "link": "https://www.youtube.com/watch?v=cMzHdN7oOMQ",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "demitrieuscal",
+            "link": "https://www.youtube.com/watch?v=2n6NF_tiKtE",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
