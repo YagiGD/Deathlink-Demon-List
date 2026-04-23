@@ -1,21 +1,27 @@
 {
     "id": 114222375,
-    "name": "2p- Skyline Pt II",
+    "name": "3p- Skyline Pt II",
     "verifier": "Possible List Points",
     "creators": "Creator",
     "publisher": "Publisher",
-    "verification": "https://www.youtube.com/watch?v=57vd22rJHtM",
+    "verification": "https://www.youtube.com/watch?v=VYpWvzesSy8",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "SirManFace",
-            "link": "https://www.youtube.com/watch?v=57vd22rJHtM",
+            "user": "demitrieuscal",
+            "link": "https://www.youtube.com/watch?v=9_SZr7DyJ-Y",
             "percent": 100,
             "hz": "Verifiers"
         },
         {
-            "user": "Icozen",
-            "link": "https://www.youtube.com/watch?v=J3y-mNaqUGM",
+            "user": "IceCubed88",
+            "link": "https://www.youtube.com/watch?v=VYpWvzesSy8",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "BaasicGD",
+            "link": "https://www.youtube.com/watch?v=cl0zcTZCJMg",
             "percent": 100,
             "hz": "Verifiers"
         }
