@@ -1,0 +1,35 @@
+{
+    "id": 5904109,
+    "name": "4p- Platinum Adventure",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=zd4Fx5Kgvik",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "YagiGD",
+            "link": "https://www.youtube.com/watch?v=zd4Fx5Kgvik",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "L3xiGD",
+            "link": "https://www.youtube.com/watch?v=4Eg4oh0V9ow",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "demitrieuscal",
+            "link": "https://drive.google.com/file/d/1WqAxzMNVWrEdmtNOhUXnNsJyRmZ6s5Cv/view",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "IceCubed88",
+            "link": "https://www.youtube.com/watch?v=e5mJxPvbpgI",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
