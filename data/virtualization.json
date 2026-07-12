@@ -1,0 +1,23 @@
+{
+    "id": 76799716,
+    "name": "2p- Virtualization",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=8n6DzcMPRbw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Icozen",
+            "link": "https://www.youtube.com/watch?v=IpaM4pz6KJ0",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "demitrieuscal",
+            "link": "https://www.youtube.com/watch?v=8n6DzcMPRbw",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
