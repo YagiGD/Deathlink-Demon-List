@@ -1,0 +1,23 @@
+{
+    "id": 63075323,
+    "name": "2p- white women",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=cTPYl1B-oVU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "demitrieuscal",
+            "link": "https://www.youtube.com/watch?v=cTPYl1B-oVU",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "IceCubed88",
+            "link": "https://www.youtube.com/watch?v=ZsLs55LOU_s",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
