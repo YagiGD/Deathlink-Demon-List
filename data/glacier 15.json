@@ -1,0 +1,23 @@
+{
+    "id": 96226630,
+    "name": "2p- Glacier 15",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=pk99eGGk0x0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ethebeast",
+            "link": "https://www.youtube.com/watch?v=pk99eGGk0x0",
+            "percent": 100,
+            "hz": "Verifiers"
+        },
+        {
+            "user": "bzaan360",
+            "link": "https://www.youtube.com/watch?v=I1KiI2DmOvA",
+            "percent": 100,
+            "hz": "Verifiers"
+        }
+    ]
+}
