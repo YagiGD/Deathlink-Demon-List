@@ -1,0 +1,47 @@
+{
+    "id": 55520,
+    "name": "6p- The Lightning Road",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=GBnEV_ooZcs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "YagiGD",
+            "link": "https://www.youtube.com/watch?v=GBnEV_ooZcs",
+            "percent": 100,
+            "hz": "Verifiers | 8/23/2026"
+        },
+        {
+            "user": "IceCubed88",
+            "link": "https://www.youtube.com/watch?v=0_R2oaY8yTc",
+            "percent": 100,
+            "hz": "Verifiers | 8/23/2026"
+        },
+        {
+            "user": "ethebeast",
+            "link": "https://www.youtube.com/watch?v=cYTtQv83Y3E",
+            "percent": 100,
+            "hz": "Verifiers | 8/23/2026"
+        },
+        {
+            "user": "bzaan360",
+            "link": "https://www.youtube.com/watch?v=feSXWXoV42k",
+            "percent": 100,
+            "hz": "Verifiers | 8/23/2026"
+        },
+        {
+            "user": "demitrieuscal",
+            "link": "https://www.youtube.com/watch?v=hqxKzNFn_AA",
+            "percent": 100,
+            "hz": "Verifiers | 8/23/2026"
+        },
+        {
+            "user": "HomerunkingTZ",
+            "link": "https://www.youtube.com/watch?v=WzMWFy35DnQ",
+            "percent": 100,
+            "hz": "Verifiers | 8/23/2026"
+        }
+    ]
+}
