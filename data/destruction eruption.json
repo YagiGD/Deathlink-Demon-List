@@ -1,0 +1,23 @@
+{
+    "id": 86669300,
+    "name": "2p- Destruction Eruption",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=gwbqWrYizRs",
+    "percentToQualify": 68,
+    "records": [
+        {
+            "user": "ethebeast",
+            "link": "https://www.youtube.com/watch?v=gwbqWrYizRs",
+            "percent": 100,
+            "hz": "Verifiers | 9/3/2026"
+        },
+        {
+            "user": "bzaan360",
+            "link": "https://www.youtube.com/watch?v=lYl9xNSBFy8",
+            "percent": 100,
+            "hz": "Verifiers | 9/3/2026"
+        }
+    ]
+}
