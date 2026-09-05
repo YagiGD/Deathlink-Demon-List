@@ -1,0 +1,23 @@
+{
+    "id": 61910810,
+    "name": "2p- TANTRUM",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=OV0Cx0P86Yw",
+    "percentToQualify": 75,
+    "records": [
+        {
+            "user": "Fymesthesia",
+            "link": "https://www.youtube.com/watch?v=OV0Cx0P86Yw",
+            "percent": 100,
+            "hz": "Verifiers | 9/5/2026"
+        },
+        {
+            "user": "CaptainMikelyGD",
+            "link": "https://www.youtube.com/watch?v=tnIJSuE-b7U",
+            "percent": 100,
+            "hz": "Verifiers | 9/5/2026"
+        }
+    ]
+}
