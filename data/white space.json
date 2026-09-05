@@ -1,0 +1,23 @@
+{
+    "id": 77292103,
+    "name": "2p- White Space",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=GM7YheYZRK0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ethebeast",
+            "link": "https://www.youtube.com/watch?v=GM7YheYZRK0",
+            "percent": 100,
+            "hz": "Verifiers | 9/4/2026"
+        },
+        {
+            "user": "bzaan360",
+            "link": "https://www.youtube.com/watch?v=1K_IdCcaBD8",
+            "percent": 100,
+            "hz": "Verifiers | 9/4/2026"
+        }
+    ]
+}
