@@ -1,0 +1,23 @@
+{
+    "id": 513137,
+    "name": "2p- pg clubstep",
+    "verifier": "Possible List Points",
+    "creators": "Creator",
+    "publisher": "Publisher",
+    "verification": "https://www.youtube.com/watch?v=njunN6vAjjc",
+    "percentToQualify": 56,
+    "records": [
+        {
+            "user": "L3xiGD",
+            "link": "https://www.youtube.com/watch?v=njunN6vAjjc",
+            "percent": 100,
+            "hz": "Verifiers | 9/5/2026"
+        },
+        {
+            "user": "Bledwinn12",
+            "link": "https://www.youtube.com/watch?v=xbrPf-lOv6M",
+            "percent": 100,
+            "hz": "Verifiers | 9/5/2026"
+        }
+    ]
+}
